@@ -1,5 +1,5 @@
 [cdf]
-default_organization_dir = "CogniteBootcamp-dataops"
+default_organization_dir = "ice-cream-dataops"
 default_env = "test"
 
 [modules]
